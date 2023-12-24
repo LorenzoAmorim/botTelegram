@@ -1,7 +1,7 @@
 import telebot
 
 # chave api, do administrador do bot
-CHAVE_API = "6558676038:AAE9g_DrIB7uxdv8EPbO9qOCfaMVt5rAEY8"
+CHAVE_API = "bot_api"
 
 # defini o bot de fato aqui
 bot = telebot.TeleBot(CHAVE_API)
