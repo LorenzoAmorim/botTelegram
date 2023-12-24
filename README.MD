@@ -1,5 +1,4 @@
 # Meu Primeiro Bot do Telegram em Python
-
 ## Funcionalidades Atuais
 &middot;Respostas Simples: O bot é capaz de responder a comandos e mensagens simples.
 &middot;Integração com APIs: Implementei integrações básicas com APIs externas para fornecer informações úteis aos usuários.
